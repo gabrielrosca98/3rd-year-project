@@ -1,0 +1,289 @@
+,File_Name,Description
+0,GLA Grants data – London Datastore,"The GLA Grants Dataset contains data relating to grants which have been awarded by the GLA since 2013. The dataset uses the 360 Giving Standard, to ensure the data is clear and accessible. This dataset can also be accessed on the 360 giving navigation site GrantNav, which allows grant-makers and others to explore how grants are used, areas of commonality between grant-makers and gaps that are not reached by grant-makers. Potential grant-seekers can also see who and what the GLA has funded in the past. "
+1,Animal rescue incidents attended by LFB – London Datastore,"The London Fire Brigade attends a range of non-fire incidents (which we call 'special services'). These 'special services' include assistance to animals that may be trapped or in distress. 
+We routinely get asked for information about the number of such incident attended by the London Fire Brigade and this data is published on the London Datastore to assist those who require it.
+The data is provided from January 2009 and isupdated monthly. A range of information is supplied for each incident including some location information (postcode, borough, ward), as well as the data/time of the incidents. We do not routinely record data about animal deaths or injuries. 
+Please note that any cost included is a notional cost calculated based on the length of time rounded up to the nearest hour spent by Pump, Aerial and FRU appliances at the incident and charged at the current Brigade hourly rate.
+The London Fire Commissioner is the fire and rescue authority for London and runs the London Fire Brigade."
+2,Bariatric incidents attended by LFB – London Datastore,"The London Fire Brigade attends a range of non-fire incidents (which we call 'special services'). These 'special services' include assistance to other emergency services, including sometimes help with moving larger (i.e. bariatric) patients/people. Although the LFB does not explicitly capture and classify these types of incidents, we are able to identify them via the messages that are transmitted during incidents.  
+We routinely get asked for information about the number of such incident attended by the London Fire Brigade and this data is published on the London Datastore to assist those who require it.
+The data is provided from January 2009 and is updated monthly. A range of information is supplied for each incident including some location information (postcode sector, borough, ward), as well as the data/time of the incidents.
+The data we collect about these incidents does not routinely include any information about the patient or the nature of any illness, or the reason for assistance.
+Please note that any cost included is a notional cost calculated based on the length of time rounded up to the nearest hour spent by Pump, Aerial and FRU appliances at the incident and charged at the current Brigade hourly rate.
+The London Fire Commissioner is the fire and rescue authority for London and runs the London Fire Brigade."
+3,Breathe London AQMesh pods – London Datastore,"The Breathe London stationary network is made up of 100 AQMesh pods, each containing a collection of small sensor-based air quality monitors that offer near real-time localised air quality information. They measure nitrogen dioxide (NO₂) and nitric oxide (NO) using electrochemical sensors; particulate matter (PM) in various size cuts (PM₂.₅ and PM10 are reported) using a light-scattering optical particle counter; and carbon dioxide (CO₂) using a non-dispersive infrared absorbance sensor. In some locations, the pods measure ozone (O3), also using electrochemical sensors. The pods measure temperature, humidity and air pressure for the purposes of correction for environmental conditions. Each sensor pod is set up to collect data continuously for 10-second intervals and to create an average every 1-15 minutes, synchronised to the top of each hour.
+More information can be found on the Breathe London website."
+4,Natural Capital Account for London – London Datastore,"This is the first natural capital account for London, and was supported by the Mayor of London, the National Trust and the Heritage Lottery Fund.
+The natural capital account assesses the economic value of different benefits that London and Londoners gain from the city’s public parks and other green spaces. For more information on the methodology and results of this analysis, please see the London.gov.uk website.
+
+
+
+
+
+
+
+"
+5,Life Expectancy at Birth and Age 65 by Ward – London Datastore,"This series has been discontinued.
+Life expectancy at birth and age 65 by sex and ward, London borough, region, 1999/03 - 2010/14.
+The population data used is revised 2002-2010 ONS mid year estimates (MYE) - revised post 2011 Census. Revised population estimates by single year of age for wards can also be found on the ONS website for 2002-2010, 2011, 2012, and 2013. These figures are consistent with the published revised mid-2002 to mid-2010 local authority estimates.
+Rolling 5-year combined life expectancies are used for wards to reduce the effects of the variability in number of deaths in each year. The same method is applied to higher geographies to enable meaningful comparisons. However, 3-year combined expectancies are published separately on the Datastore for geographical areas that are local authority and above.
+If the GLA publish revised 2002-2010 population data for wards then these life expectancy figures will also be revised to reflect them.
+The ONS vital statistics mortality data breaks deaths into 10 year age bands. 5 year age band deaths were modelled using this data.
+Vital Statistics: Population and Health Reference Tables are available on the ONS website here.
+The tool for calculating life expectancy is available from Public Health England.  The highest age band in the calculator is currently 85+. If the tool is updated with a higher upper age band (ie 90+), this data will be revised to reflect this change.
+Healthy life expectancy and disability-free life expectancy (1999-2003) at birth have been calculated for wards in England and Wales. These can be found on the ONS website.
+This data is also presented in the GLA ward profiles."
+6,"Number of Registered Blind and Partially Sighted People by Age Group, Borough – London Datastore","This data shows the number of people registered with Councils with Adult Social Services Responsibilities (CASSRs) in England as being blind and partially sighted by age, for years ending 31 March.
+Age groups are: 0-4, 5-17, 18-49, 50-64, 65-74, 75 and over.
+A decision was made to bring the most recent collection forward by a year for collection in 2008, due to concerns regarding the fall in the number of people newly registered as blind and partially sighted between March 2003 and March 2006. This means there will be no collection in 2009. Tables contain information relating to the year ended 31 March 2008.
+The register is voluntary; however it is a precondition for the receipt of certain financial benefits. This is a factor that gives more credibility to the register for blind than to the register of the partially sighted.
+The reliability of this information is difficult to determine and so cannot be thought of as a definitive number of blind and partially sighted people.
+View data on NHS website
+Further sight loss data is available from Royal National Institute of Blind People -RNIB"
+7,"Number of Registered Blind and Partially Sighted People with an Additional Disability by Category, Borough – London Datastore","This Data shows the number of people registered with Councils with Adult Social Services Responsibilities (CASSRs) in England as being blind and partially sighted with an additional disability by category of disability, for years ending 31 March. 
+Categories include: Mental illness only, learning disabilities only, physical disabilities only, deaf without speech, deaf with speech, hard of hearing, mental illness and other disabilities, learning and other disabilities, physical and other disabilities. Where a client has multiple disabilities including deaf or hard of hearing, councils were advised to count this under the category of deaf or hard of hearing.
+A decision was made to bring the most recent collection forward by a year for collection in 2008, due to concerns regarding the fall in the number of people newly registered as blind and partially sighted between March 2003 and March 2006. This means there will be no collection in 2009. Tables contain information relating to the year ended 31 March 2008.
+The register is voluntary; however it is a precondition for the receipt of certain financial benefits. This is a factor that gives more credibility to the register for blind than to the register of the partially sighted.
+The reliability of this information is difficult to determine and so cannot be thought of as a definitive number of blind and partially sighted people with an additional disability.
+Further sight loss data is available from Royal National Institute of Blind People -RNIB"
+8,Financial Capability and Child Poverty – London Datastore,"Pan London financial capability data to support Local Authorities Child Poverty Needs Assessments, updated in April 2011 with 2010 data.
+This data is designed to help local authorities improve their understanding of the areas within their borough where low financial capability is most likely to exist. This could be useful to child poverty needs assessments, and subsequent work to develop and target support services for residents within their borough.
+Supporting Documents
+Technical information about the datasets is available in the readme.txt file.
+A support note prepared by MAS and CPU is available to advise local authorities on using the data in Child Poverty Needs Assessments.
+Profiles of the data categories are available in the Pen Portraits report and details of the underlying model used by Experian are available in Technical Model report.
+Further Information
+
+For more information on the Money Advice Service (formerly the Consumer Financial Education Body): http://www.moneyadviceservice.org.uk
+For more information on Child Poverty Unit: http://www.education.gov.uk/childrenandyoungpeople/ families/childpoverty
+For details of the Experian model:  http://webarchive.nationalarchives.gov.uk/ http://www.hm-treasury.gov.uk/thoresen_review_index.htm"
+9,Road Casualties by Severity – London Datastore,"Casualties on the roads by severity (Killed/seriously injured or slight injuries) for both child and all casualties by borough since 2004. 
+Casualties by 5 year age group and severity for London and Great Britain.
+Data presented is for personal injury road traffic collisions occurring on the public highway, and reported to the police, in accordance with the Stats 19 national reporting system.
+Also available: Casualties on the roads by LSOA, MSOA and Ward by severity for years 2010 to 2014.
+Incident level data:
+Casualty data for all road accidents 2010 to 2014 are also available for individual incident level in CSV format (11 MB and 87k rows).
+There are slight differences between the local authority recorded in the official DFT data and this one, which has been geo-coded using the Easting and Northing of the accident. When an accident happens on a borough boundary it is down to the police officer to decide which borough the accident occured in. However, this data uses uses the centre points of the Easting and Northing provided and this can fall into a different local authority. For this reason, the geography in the geo-coded data is not official but does provide indicative information.
+Incident level data from 2005 onwards is available from TFL ('data extracts')."
+10,Road Collisions by Severity – London Datastore,"Road Collisions Data by fatal, serious or slight severity casualty groups by borough and ward.
+An collision is classed by the worst level of casualty. For example if an accident caused 1 slight injury, 2 serious injuries, and 1 fatality, the collision would be classed as fatal.
+Road casualty statistics can be found at a separate page.
+Accident and casualty data can also be found on DFT's Road Safety Data page.
+See more on the UKDA website and the DfT website."
+11,myhealthlondon Indicators – London Datastore,"Series of indicators underlying the myhealthlondon website. Information about outcome standards is also available.
+
+Each indicator is provided as a separate data file which can be found using the links below. Full metadata for the indicators are also available.
+
+
+
+Indicator 1 - One year cancer survival for lung cancer and breast cancer (Borough level)
+ 
+
+Indicator 2 - Identifying the prevalence of cancer (Borough level)
+ 
+
+Indicator 3 - Cervical Screening 
+ 
+
+Indicator 4 - GP recorded smoking (all patients)
+ 
+
+Indicator 5 - GP recorded smoking (patients with long term conditions) 
+ 
+
+Indicator 6a - Identification of the prevalence of atrial fibrillation
+ 
+
+Indicator 6b - Treatment of atrial fibrillation
+ 
+
+Indicator 7 - Uptake of immunisations for children
+ 
+
+Indicator 8 - Uptake of immunisation for influenza for patients aged over 65, and those at risk under 65 
+ 
+
+Indicator 9 - Identifying the prevalence of chronic obstructive pulmonary disease based on estimates for the local population 
+ 
+
+Indicator 10 - Identifying the prevalence of asthma - no data for 2009
+ 
+
+Indicator 11 - Identifying the prevalence of Diabetes - no data for 2009
+ 
+
+Indicator 12 - Identifying the prevalence of coronary heart disease
+ 
+
+Indicator 13 - Identifying the prevalence of dementia - data no longer available
+ 
+
+Indicator 14 - Monitoring safe, rational and cost effective prescribing in general practice (Borough level)
+ 
+
+Indicator 15 - The rate of emergency hospital admission for people with long term conditions usually managed by GPs
+ 
+
+Indicator 16 - Rate of A&amp;E attendances 
+ 
+
+Indicator 17 - Satisfaction with the quality of consultation at the GP practice 
+ 
+
+Indicator 17a - Percentage of patients who gave a positive answer to 'did the doctor or nurse take notice of your views about how to deal with your health problem?'
+ 
+
+Indicator 17b - Percentage of patients who gave a positive answer to 'did the doctor or nurse give you information about the things you might do to deal with your health problem?'
+ 
+
+Indicator 17c - Percentage of patients who gave a positive answer to 'did you and the doctor or nurse agree about how best to manage your health problem?
+ 
+
+Indicator 17d - Percentage of patients who gave a positive answer to 'did the doctor or nurse give you a written document about the discussions you had about managing your health problem?'
+ 
+
+Indicator 17e - Percentage of patients who gave a positive answer to 'did you want a written plan summarising your discussion with the doctor or nurse?'
+ 
+
+Indicator 17f - Percentage of patients who gave a positive answer to 'did the doctor or nurse ever tell you that you had something called a 'care plan?'
+ 
+
+Indicator 17g - Percentage of patients who gave a positive answer to 'do you think that having these discussions with your doctor or nurse has helped improve how you manage your health problem?'
+ 
+
+Indicator 18 - Satisfaction with overall care received at the GP practice
+ 
+
+Indicator 19 - Patients leaving this GP practice without changing home address
+ 
+
+Indicator 20 - Satisfaction in being able to see a preferred doctor 
+ 
+
+Indicator 21 - Satisfaction with accessing primary care 
+ 
+
+Indicator 22 - Significant event reviews (one year and three year minimum levels) 
+ 
+
+     Indicators 23 &amp; 24 - Do not exist
+ 
+
+Indicator 25 - Early detection of Cancer
+ 
+
+Indicator 26b - Identifying the prevalence and assessing patients with a new diagnosis of depression - 26a data no longer available
+ 
+
+Indicator 26c - Assessment of depression
+ 
+
+Indicator 27a - Percentage of patients in the local area with serious mental illness contacted by their GP practice after missing their health review
+ 
+
+Indicator 27b - Percentage of patients with serious mental illness with a physical health check in the last 15 months
+ 
+
+Indicator 27c - Blood pressure checks for serious mental health illness
+ 
+
+Indicator 27d - Physical health checks for serious mental health illness
+ 
+
+Indicator 28 - End of life care
+ 
+
+All indicators are provided at GP Practice level except for those marked as Borough level.
+
+19 and 25 as of 04/09/2012
+
+Indicator 6 updated as of 01/05/2013
+
+Indicators 1, 2, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 17a to 17g, 18, 20, 21, 22, 26a, 26c, 27c ,27d and 28 updated as of 17/12/2013
+
+Indicator 26a has been discontinued and is no longer available on the Datastore.  There is a possibility that it may be reinstated in the future.
+
+Data are provided in a standardised schema with each record containing an indicator ID and organisation ID.  These can be matched against the two lookup files below to identify the indicator (or sub-indicator where available) and organisation.
+
+
+
+Indicator Lookup File (csv format)
+ 
+
+Organisation Lookup File (csv format)
+ 
+
+Period Lookup File (csv format)
+ 
+"
+12,Public Toilets – London Datastore,"The London Assembly Health and Public Services Committee has published a report into the availability of information about public toilets in London. This package provides supporting information from the investigation.
+Borough Summary Data
+This table (available in xls or csv) summarises the information collected by the Assembly for each London Borough.
+Open Data Standard
+The Committee has also published a new standard open data format for recording information about public toilets (available in xls or csv). Supporting guidance is also available in either pdf or rtf format.
+View the blog about the new format from Victoria Borwick, Chair of the Health and Public Services Committee."
+13,"Physically Active Children, Borough – London Datastore","Percentage of school children who spend a minimum of two hours each week on high quality Physical Education and school sport within and beyond the curriculum.
+
+There is the potential for error in the collection, collation and interpretation of the data (bias may be introduced due to poor response rates and selective opt out of larger children which it is not possible to control for).
+
+TNS Social Research: Annual Survey of School Sport Partnerships on behalf of the Department for Children, Schools and Families
+"
+14,Drug Treatment Rates – London Datastore,"Numbers of people in contact with drug action teams.
+Next release 1/10/2010
+http://www.nta.nhs.uk/statistics.aspx"
+15,Life Expectancy by Deprivation – London Datastore,"Life expectancy at birth, years for all ages by national deprivation quintile and Males and Females.
+
+Deprivation quintiles were assigned to Lower Layer Super Output Areas (LSOAs) at a national level. Results will be missing for areas where a local authority had none of its population living in a particular quintile. Results are also not presented for areas where the population at risk for the years 2003–07 was less than 5,000 i.e. where the total aggregated population for these years fell below this threshold.
+
+Confidence intervals available from the Association of Public Health Observatories website.
+
+Relevant links:
+   http://www.apho.org.uk/default.aspx?QN=HP_DATATABLES
+
+http://www.apho.org.uk/resource/item.aspx?RID=50198
+"
+16,"Prevalence of Common Mental Health Problems, Borough – London Datastore","Number of cases of common mental health problems per 1000 of the population aged 16-74 by type of mental health problem.
+
+Data on rates are presented as total cases per 1000 population aged 16-74.
+
+Detail of case numbers are available from NEPHO for males and females, for quinary age-groups.  These are not intended to be used at this level, rather to provide flexible data for grouping up.
+"
+17,Census 2001 Key Statistics 21: Long Term Illness – London Datastore,"Census Key Statistics Table KS21: Households with limiting long-term illness and dependent children.
+
+Note: * A dependent child is a person in a household aged 0 -15 (whether or not in a family) or a person aged   16 - 18 who is a full-time student in a family with parent(s). Cells in this table have been randomly adjusted to avoid the release of confidential data.
+
+Census day was 29 April 2001.
+"
+18,Census 2001 Key Statistics 08: Health – London Datastore,"Census Key Statistics Table KS08: Health and provision of unpaid care.
+
+Limiting long-term illness covers any long-term illness; health problem or disability which limits daily activities or work.  Working age population is 16-64 inclusive for men and 16-59 inclusive for women.
+
+General health refers to health over the 12 months prior to Census day (29 April 2001).
+
+Provision of unpaid care: looking after; giving help or support to family members; friends; neighbours or others because of long-term physical or mental ill-health or disability or problems relating to old age.
+
+Cells in this table have been randomly adjusted to avoid the release of confidential data. All data is © Crown Copyright 2003. Census day was 29 April 2001.
+"
+19,Estimation of Health Impacts of Particulate Pollution in London – London Datastore,"Data relating to populations and population weighted annual mean PM2.5 (ug/m3) by Ward and estimated attributable deaths (rounded to whole numbers) each year based on 2008 rates at concentration coefficients of 6%, 1% and 12% per 10 ug/m3 of PM2.5.
+Note that the 6% co efficient factor is considered the 'best estimate' by the Committee on the Medical Effects of Air Pollutants (COMEAP).
+Commissioned to inform the Mayor's Air Quality Strategy, will be updated as appropriate.
+Based on 2008 population rates
+Click here for the Clearing London's air webpage."
+20,"Number of People Registered as Deaf or Hard of Hearing by Age Group, Borough – London Datastore","This data shows the number of people registered with Councils with Social Services Responsibilities (CSSRs) as being deaf or hard of hearing by age group.
+Age groups are: 0-17, 18-64, 65-74, 75 and over.
+Numbers are rounded to nearest five.
+The data are compiled from the triennial return SSDA 910 which is submitted to The Information Centre (The IC).
+People who are registered as deaf or hard of hearing that are also blind or partially sighted are recorded on the Register of Blind and Partially Sighted Persons (SSDA 902 form), unless stated these are excluded from this report. Data on these by category of disability is available here:
+http://data.london.gov.uk/dataset/number-registered-blind-and-partially-sighted-people-additional-disability-categor
+and by age here:
+http://data.london.gov.uk/dataset/number-registered-blind-and-partially-sighted-people-age-group-borough
+All ages total includes some cases where the age was not known. Therefore the age groups may not add to the total. Regional totals are estimated to take account of missing data.
+Dash (""-"") means a local authority was unable to submit details on the number of people registered as being deaf and hard of hearing.
+Download from NHS website"
+21,myhealthlondon Maternity Indicators – London Datastore,"Series of maternity related indicators underlying the myhealthlondon website. All 34 indicators are provided in a single Excel spreadsheet and complete metadata is also available for download.
+"
+22,Physically Active Children – London Datastore,"Percentage of school children who spend a minimum of two hours each week on high quality PE and school sport within and beyond the curriculum.
+There is the potential for error in the collection, collation and interpretation of the data (bias may be introduced due to poor response rates and selective opt out of larger children which it is not possible to control for).
+The percentage of children attending state schools belonging to a School Sport Partnership who participate in at least 2 hours of high quality PE and school sport in a typical week of the academic year.
+TNS Social Research: Annual Survey of School Sport Partnerships on behalf of the Department for Children, Schools and Families.
+Visit the APHO website"
