@@ -12,30 +12,21 @@ The following libraries must be installed in order to run the notebooks.
 * For LondonOpenData_ETL
 ```
 import os
-from os import path
 import shutil
 import tqdm
-from tqdm import trange, tqdm_notebook
-from tqdm import tqdm_notebook as tqdm
 import pandas as pd
 import re
 import csv
 import urllib3
-from urllib3 import PoolManager
 import requests
 import urllib.request
 import numpy as np
 import time
-from bs4 import BeautifulSoup
-from IPython.display import Markdown, display
+import IPython
 import urllib3
 import boto3
 import s3fs
 import ipywidgets as widgets
-from ipywidgets import TwoByTwoLayout
-from ipywidgets import interact, interactive, fixed, interact_manual
-from ipywidgets import VBox, HBox, Label, Box
-from ipywidgets import Button, Layout
 ```
 * For Meta_Local_Data
 ```
@@ -59,19 +50,10 @@ import warnings
 import boto3
 import s3fs
 import ipywidgets as widgets
-from tqdm import tqdm_notebook as tqdm
-from IPython.display import Markdown, display
-from ipywidgets import FileUpload
-from ipywidgets import TwoByTwoLayout
-from ipywidgets import interact, interactive, fixed, interact_manual
-from ipywidgets import VBox, HBox, Label, Box
-from ipywidgets import Button, Layout
-from nltk.corpus import stopwords
-from nltk.corpus import wordnet
-from scipy import stats
-from scipy.stats import shapiro
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import TfidfVectorizer
+import tqdm 
+import IPython
+import scipy 
+import sklearn
 ```
 * For OpenPrescribing
 ```
@@ -85,13 +67,6 @@ import random
 import time
 import io
 import ipywidgets as widgets
-import ipywidgets as widgets
-from ipywidgets import FileUpload
-from IPython.display import Markdown, display
-from ipywidgets import TwoByTwoLayout
-from ipywidgets import interact, interactive, fixed, interact_manual
-from ipywidgets import VBox, HBox, Label, Box
-from ipywidgets import Button, Layout
 ```
 
 * For Statistical analysis
@@ -118,17 +93,8 @@ import s3fs
 import math
 import matplotlib.pyplot as plt
 import seaborn as sns
-from IPython.display import Markdown, display
-from ipywidgets import TwoByTwoLayout
-from ipywidgets import interact, interactive, fixed, interact_manual
-from ipywidgets import VBox, HBox, Label, Box
-from ipywidgets import Button, Layout
-from scipy import stats
-from ipywidgets import FileUpload
-from nltk.corpus import stopwords
-from nltk.corpus import wordnet
-from scipy import stats
-from scipy.stats import shapiro
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import TfidfVectorizer
+import ipywidgets 
+import scipy 
 ```
+
+## Running the notebooks
